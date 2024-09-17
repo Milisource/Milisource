@@ -1,5 +1,5 @@
 # 💫 About Me:
-Music, vidyagame, ; re-learning HTML & CSS, new learner of Python & JavaScript.
+Music, vidyagame, it's all passion driven; re-learning HTML & CSS, new learner of Python & JavaScript.
 [![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=Despairiity)](https://www.last.fm/user/Despairiity)
 
 
